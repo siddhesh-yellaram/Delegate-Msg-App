@@ -1,0 +1,7 @@
+D:\test\.NET\DelegateMsgApp\obj\Debug\DelegateMsgApp.csproj.AssemblyReference.cache
+D:\test\.NET\DelegateMsgApp\obj\Debug\DelegateMsgApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\DelegateMsgApp\bin\Debug\DelegateMsgApp.exe.config
+D:\test\.NET\DelegateMsgApp\bin\Debug\DelegateMsgApp.exe
+D:\test\.NET\DelegateMsgApp\bin\Debug\DelegateMsgApp.pdb
+D:\test\.NET\DelegateMsgApp\obj\Debug\DelegateMsgApp.exe
+D:\test\.NET\DelegateMsgApp\obj\Debug\DelegateMsgApp.pdb
